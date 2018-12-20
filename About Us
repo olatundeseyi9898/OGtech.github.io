@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<head>
+<meta charset="utf-8">
+<title>
+OGtechwebsite    
+</title>
+<link rel="stylesheet" href="style.css">
+    <style>
+        p{
+            font-size: 40px;
+        }
+    </style>
+</head>
+<header>
+<div class="wrapper">
+<div class="logo"><img src="images.png" alt=""></div>
+<ul class="nav-area">
+<li><a href="OGtechwebsite.html">Home</a></li>
+<li><a href="https://www.facebook.com/olatunde.samuel.9250595">About Us</a></li>
+<li><a href="#">Services</a></li>
+<li><a href="contact.html">Contact</a></li>    
+</ul>
+</div>
+<div class="welcome-text"><h1>OGtech Technical services</h1><a href="contact.html"><em>Reliable technicians you can trust always...</em></a></div>
+</header><br><br>
+<center><h1 style="color: blue">About us</h1></center><br>
+<p>
+OGtech Technical Company is a of group company that consist of different technicians around the counmtry that has come together with soul aim of meeting with the technical problems people may encounter while using their electrical appliances.<br>It has been in existence since early 2000s and has achieved it's primary objective. OGtech is a registered member of N.A.E (National Association of Engineer's).<br>
+<img src="location.png" alt="" width="100px" height="100px"> Our head office is at Victoria Island, Lagos.
+</p><br><br>
+<center><h1 style="color: blue">Contacts</h1></center>
+<body>
+    <img src="facebook.png" alt="" width="100px" height="100px">
+<p>@OGtech Technicians</p><br>
+<img src="twitter.jpeg" alt="" width="100px" height="100px">
+<p>@Ogtech Tecnicians</p><br>
+<img src="instagram.png" alt="" width="100px" height="100px">
+<p>@OGtech Technicians</p><br>
+<img src="gmail.png" alt="" width="100px" height="100px">
+<p>@Ogtech_tecnicians@gmail.com</p><br><br>
+    <center><h1 style="color: blue">Our Services</h1></center>
+<slider>
+<slide><p>slide 1</p></slide>
+<slide><p>slide 2</p></slide>
+<slide><p>slide 3</p></slide>
+<slide><p>slide 4</p></slide>
+</slider>
+</body>
